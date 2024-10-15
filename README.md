@@ -5,3 +5,5 @@ Features:
 Interactive GUI: Users can roll the dice by pressing the "click me to roll" button.
 Random Outcome: The result of each roll is generated randomly using Python's random module.
 Dynamic Dice Images: Each possible outcome (1-6) is represented by a corresponding dice image, which changes dynamically after every roll.
+
+![Screenshot (141)](https://github.com/user-attachments/assets/520dd422-e6d2-4fba-b5f2-44f492063fa9)
